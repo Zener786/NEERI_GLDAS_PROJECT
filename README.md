@@ -1,8 +1,8 @@
 # TerrainAnalysisGLDAS
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Zener786/TerrainAnalysisGLDAS/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Zener786/NEERI_GLDAS_PROJECT/master)
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Zener786/TerrainAnalysisGLDAS/master
+ :target: https://mybinder.org/v2/gh/Zener786/NEERI_GLDAS_PROJECT/master
  
 
 ## ABSTRACT
